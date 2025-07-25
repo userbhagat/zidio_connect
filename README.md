@@ -1,2 +1,2 @@
-# zidio_connect
-Full stack - Internship
+# ZIDIO_connect
+Internship
